@@ -1,0 +1,5 @@
+https://www.codewars.com/kata/53934feec44762736c00044b/train/java
+
+public class ToString {
+  public static final String a = Integer.toString(123);
+}
